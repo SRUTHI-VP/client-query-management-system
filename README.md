@@ -4,7 +4,7 @@ A secure, role-based dashboard built with Streamlit and MySQL to manage client q
 
 ## Key Features
 
-- Role-based login (Admin, Support Staff)
+- Role-based login (client, Support Staff)
 - Password hashing for secure authentication
 - Query status tracking (Open/Closed)
 - Tabular view of all queries
