@@ -1,8 +1,8 @@
-# 📊 Client Query Management System
+#  Client Query Management System
 
 A secure, role-based dashboard built with Streamlit and MySQL to manage client queries efficiently. Designed for support teams to track, analyze, and resolve client issues with clarity and speed.
 
-## 🔐 Key Features
+## Key Features
 
 - Role-based login (Admin, Support Staff)
 - Password hashing for secure authentication
@@ -11,7 +11,7 @@ A secure, role-based dashboard built with Streamlit and MySQL to manage client q
 - Pie chart analytics for query distribution
 - Guided input flow with validation and error handling
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Frontend**: Streamlit
 - **Backend**: Python
